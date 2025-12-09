@@ -4,7 +4,7 @@ export default function header() {
     <>
       <div className="headerr">
         <img src={chefIcon} />
-        <h1>Smoothie Sensations</h1>
+        <h1>Smoothie Sensations🥛.....</h1>
       </div>
     </>
   );

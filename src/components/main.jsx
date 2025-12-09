@@ -104,7 +104,7 @@ export default function SmoothieForm() {
             </ul>
           </>
         ) : (
-          <p>Choose some ingredients to get started!</p>
+          <p>Choose some ingredients to get started!😉...</p>
         )}
       </section>
 
