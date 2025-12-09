@@ -23,7 +23,7 @@ export default function SmoothieForm() {
     event.preventDefault();
 
     if (!smoothieName || selectedIngredients.length === 0) {
-      alert("Please enter a smoothie name and select ingredients!");
+      alert("Please enter a smoothie name and select ingredients!🥛🥛.....");
       return;
     }
 
@@ -44,7 +44,7 @@ export default function SmoothieForm() {
   }
 
   const ingredientList = [
-    "Banana",
+    "Banana 🍌",
     "Strawberry",
     "Blueberry",
     "Mango",
