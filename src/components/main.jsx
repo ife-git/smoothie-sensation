@@ -45,15 +45,15 @@ export default function SmoothieForm() {
 
   const ingredientList = [
     "Banana 🍌",
-    "Strawberry",
-    "Blueberry",
-    "Mango",
-    "Pineapple",
-    "Vanilla flavouring",
-    "Peanut butter",
-    "Yogurt",
-    "Honey",
-    "Chia seeds",
+    "Strawberry🍓",
+    "Blueberry🫐",
+    "Mango🥭",
+    "Pineapple🍍",
+    "Vanilla flavouring🍦",
+    "Peanut butter🥜",
+    "Yogurt🍧",
+    "Honey🍯",
+    "Chia seeds🌱",
   ];
 
   return (
